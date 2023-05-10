@@ -1,0 +1,7 @@
+com/mycompany/transportes/FretePadrao.class
+com/mycompany/transportes/Transportes.class
+com/mycompany/transportes/CadastroFrete.class
+com/mycompany/transportes/FreteExpresso.class
+com/mycompany/transportes/FreteSuperExpresso.class
+com/mycompany/transportes/Frete.class
+com/mycompany/transportes/Fretavel.class
